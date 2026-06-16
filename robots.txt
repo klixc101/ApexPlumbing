@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://apex-plumbing-ai.clawkai.com/sitemap.xml
+Sitemap: https://apexflowbathrooms.co.uk/sitemap.xml
