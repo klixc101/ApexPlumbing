@@ -1,0 +1,24 @@
+{
+  "name": "apex-plumbing",
+  "version": "1.0.0",
+  "description": "SEO-focused website for Apex Flow Plumbing & Bathrooms in Chesterfield.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "check": "node --check index.js",
+    "test": "npm run check"
+  },
+  "keywords": [
+    "plumber",
+    "chesterfield",
+    "bathroom fitter",
+    "emergency plumber",
+    "apex flow"
+  ],
+  "author": "Apex Flow Plumbing & Bathrooms",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "private": true
+}

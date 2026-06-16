@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://apex-plumbing-ai.clawkai.com/sitemap.xml
